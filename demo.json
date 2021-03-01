@@ -1,0 +1,35 @@
+[
+    {
+        "firstName": "John",
+        "lastName": "Doe",
+        "Address": {
+            "Street": "123 Street",
+            "City": "Houston",
+            "State": "TX"
+        },
+        "email": "john.doe@email.com",
+        "phone": "555-555-555"
+    },
+    {
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "Address": {
+            "Street": "123 Street",
+            "City": "Houston",
+            "State": "TX"
+        },
+        "email": "jane.doe@email.com",
+        "phone": "666-666-666"
+    },
+    {
+        "firstName": "Bob",
+        "lastName": "Jonshon",
+        "Address": {
+            "Street": "25 Street S",
+            "City": "Washington",
+            "State": "USA"
+        },
+        "email": "bob.jonshon@email.com",
+        "phone": "123-456-789"
+    }
+]
